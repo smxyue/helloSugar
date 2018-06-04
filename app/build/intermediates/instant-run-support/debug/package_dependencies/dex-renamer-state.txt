@@ -1,0 +1,13 @@
+#Tue Jun 05 03:18:11 CST 2018
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\sugar-1.3_1426c554925af266b79bbb23b8bf60d299517727
+base.2=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\google-gson-stream-2.0_6bd075136ebd6fbd1c3d08231490a8c8ed3fd50e
+base.1=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\httpcore-4.4.3_8fee47e6d29ad327d3e9467b5b7ad14d741cba53
+base.0=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xUtils-2.6.14_678ee222d2036fdb1f31e27f8a03997ade3137b5
+file.3=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\sugar-1.3_1426c554925af266b79bbb23b8bf60d299517727\\classes.dex
+file.2=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\google-gson-stream-2.0_6bd075136ebd6fbd1c3d08231490a8c8ed3fd50e\\classes.dex
+file.1=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\httpcore-4.4.3_8fee47e6d29ad327d3e9467b5b7ad14d741cba53\\classes.dex
+file.0=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\xUtils-2.6.14_678ee222d2036fdb1f31e27f8a03997ade3137b5\\classes.dex

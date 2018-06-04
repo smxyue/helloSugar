@@ -1,0 +1,7 @@
+#Tue Jun 05 03:18:12 CST 2018
+base.0=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8bc9eaa8086ccc845cda878b8943fd67004370cb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_411277490f40409a29114532def52fdf3be7522b\\classes.dex
+base.1=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_411277490f40409a29114532def52fdf3be7522b
+file.0=E\:\\yue\\as\\helloSugar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8bc9eaa8086ccc845cda878b8943fd67004370cb\\classes.dex

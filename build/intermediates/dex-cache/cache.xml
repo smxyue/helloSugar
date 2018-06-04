@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\libs\sugar-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f8a323697ff1f101f72a345b14185d76d7c4353">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\2\sugar-1.3_1426c554925af266b79bbb23b8bf60d299517727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\libs\httpcore-4.4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.3_8fee47e6d29ad327d3e9467b5b7ad14d741cba53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8bc9eaa8086ccc845cda878b8943fd67004370cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_678ee222d2036fdb1f31e27f8a03997ade3137b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab53884f300536119715efdca8712e9ee78f56b">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_411277490f40409a29114532def52fdf3be7522b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\yue\as\helloSugar\app\libs\google-gson-stream-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75cf56f704cd98cc3397693c858cae97a06fcd69">
+        <dex dex="E:\yue\as\helloSugar\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-gson-stream-2.0_6bd075136ebd6fbd1c3d08231490a8c8ed3fd50e\classes.dex" />
+    </item>
+
+</items>

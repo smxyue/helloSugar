@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/t_sudisoft" />
+
+    <ImageButton
+        android:id="@+id/imageButtonSequnceTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/menu_sequncetest" 
+        android:background="#00ffffff"
+        android:layout_marginTop="10dp"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonRandomTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButtonSequnceTest"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/menu_randomtest"
+        android:background="#00ffffff"
+        android:layout_marginTop="10dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonErrorTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButtonRandomTest"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/menu_errortest"
+        android:background="#00ffffff"
+        android:layout_marginTop="10dp" />
+
+    <ImageButton
+        android:id="@+id/imageButtonProfileList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageButtonErrorTest"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/menu_profilelist"
+        android:background="#00ffffff" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="www.sudisoft.com" />
+
+</RelativeLayout>

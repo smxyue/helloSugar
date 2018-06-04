@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hellosugar.MainActivity" >
+    <item android:id="@+id/menuQuestionList" android:title="试题列表"></item>
+    <item android:id="@+id/menuInit" android:title="初始化数据"></item>
+    <item android:id="@+id/menuSync" android:title="数据同步"></item>
+    <item android:id="@+id/menuClearProfile" android:title="清除答题记录"></item>
+    <item android:id="@+id/menuRestartSequnceIndex" android:title="重新开始顺序测验"></item>
+    <item android:id="@+id/menuSubject" android:title="切换科目"></item>
+    <item android:id="@+id/menuAbout" android:title="关于我们"></item>
+
+</menu>
